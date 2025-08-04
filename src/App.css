@@ -44,15 +44,6 @@ body {
     animation: logo-spin infinite 20s linear;
   }
 }
-
-/* .card {
-  padding: 2em;
-} */
-
-/* .read-the-docs {
-  color: #888;
-} */
-
 .app-header {
   display: flex;
   align-items: center;
@@ -323,12 +314,12 @@ main {
     width: 35px;
   }
   
-  .button-group {
+  /* .button-group {
     flex-direction: column;
     gap: 4px;
     width: 100%;
   }
-  
+   */
   .save-btn,
   .preview-btn,
   .json-btn {
